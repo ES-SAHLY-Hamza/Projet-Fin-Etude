@@ -25,17 +25,15 @@ L’application vise à répondre aux besoins des utilisateurs du Parc en offran
 
 ## Technologies utilisées
 
-## 🛠 Technologies utilisées
-
 | Technologie | Description | Logo |
 |------------|------------|------|
-| [Firebase](https://firebase.google.com/) (FCM, App Check) | Plateforme de développement d'applications mobiles et web | ![Firebase Logo](https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png) |
-| [Flutter](https://flutter.dev/) | Framework UI pour le développement d’applications mobiles et web | ![Flutter Logo](https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png) |
-| [Dart](https://dart.dev/) | Langage de programmation utilisé avec Flutter | ![Dart Logo](https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png) |
-| [Node.js](https://nodejs.org/) | Environnement d’exécution JavaScript côté serveur | ![Node.js Logo](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg) |
-| [Express.js](https://expressjs.com/) | Framework web minimaliste pour Node.js | ![Express.js Logo](https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png) |
-| [Cloud Firestore](https://firebase.google.com/docs/firestore) | Base de données NoSQL en temps réel de Firebase | ![Cloud Firestore Logo](https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png) |
-| [PostgreSQL](https://www.postgresql.org/) | Système de gestion de base de données relationnelle | ![PostgreSQL Logo](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg) |
+| [Firebase](https://firebase.google.com/) (FCM, App Check) | Plateforme de développement d'applications mobiles et web | <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" alt="Firebase Logo" width="50"/> |
+| [Flutter](https://flutter.dev/) | Framework UI pour le développement d’applications mobiles et web | <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter Logo" width="50"/> |
+| [Dart](https://dart.dev/) | Langage de programmation utilisé avec Flutter | <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart Logo" width="50"/> |
+| [Node.js](https://nodejs.org/) | Environnement d’exécution JavaScript côté serveur | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js Logo" width="50"/> |
+| [Express.js](https://expressjs.com/) | Framework web minimaliste pour Node.js | <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js Logo" width="50"/> |
+| [Cloud Firestore](https://firebase.google.com/docs/firestore) | Base de données NoSQL en temps réel de Firebase | <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" alt="Cloud Firestore Logo" width="50"/> |
+| [PostgreSQL](https://www.postgresql.org/) | Système de gestion de base de données relationnelle | <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL Logo" width="50"/> |
 
 
 ## Roadmap du projet
