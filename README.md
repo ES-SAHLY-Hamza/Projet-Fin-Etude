@@ -1,5 +1,5 @@
 # Parc Fès Shore - Application Mobile
-
+<img src="Fes-shoreFinale.jpg" alt="Parc" width="500"/>
 ## Présentation du projet
 
 L'usage des smartphones est devenu incontournable dans la vie quotidienne des individus, et les moyens de communication traditionnels tendent à se digitaliser.**Le Parc Fès Shore** souhaite s'intégrer à cette dynamique en offrant **une plateforme de communication intra-site** destinée en premier lieu **à communiquer avec les usagers du Parc** tout en intégrant diverses fonctionnalités supplémentaires. Actuellement, les moyens de communication utilisés au Parc **sont fragmentés et inefficaces**, ce qui entraîne des difficultés dans la transmission rapide et fiable des informations. Les utilisateurs se plaignent souvent du manque de centralisation des informations et des services disponibles, ce qui nuit à leur expérience globale au sein du Parc. Ainsi, la problématique principale à résoudre est de **créer une solution mobile unifiée qui centralise la communication et les services**, améliorant ainsi la satisfaction des usagers du Parc. Actuellement, les moyens de communication au sein du Parc sont **fragmentés et inefficaces**, ce qui nuit à la transmission rapide et fiable des informations. L’objectif est donc de proposer une solution unifiée pour améliorer la satisfaction des usagers.
