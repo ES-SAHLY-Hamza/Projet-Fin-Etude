@@ -1,5 +1,5 @@
 # Parc Fès Shore - Application Mobile
-<img src="https://www.medz.ma/sites/default/files/2020-01/Fes%20Shore%20_12.jpg" alt="Parc" width="1300" height="500"/>
+<img src="https://www.medz.ma/sites/default/files/2020-01/Fes%20Shore%20_12.jpg" alt="Parc" width="1300" height="400"/>
 
 ## Présentation du projet
 
